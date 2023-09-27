@@ -1,0 +1,17 @@
+:root {
+  --primary: #cc33cc;
+  --sec: pink;
+  --ter: #cc66cc;
+}
+
+.fuente {
+  font-family: 'Mooli', sans-serif;
+}
+
+.colorfondo {
+  background-color: var(--primary);
+}
+
+.colortexto {
+  color: var(--sec);
+}
